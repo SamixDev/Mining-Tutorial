@@ -1,56 +1,110 @@
 [
-    {
-    "name": "GTX TITAN XP", 
+  {
+    "name": "GTX TITAN XP",
     "Ethash": {
-                "rate" : "52 Mh",
-                "power_con" : "174 W"
-                },
-    "MTP": {
-                "rate" : "3.5 Mh",
-                "power_con" : "179 W"
-                },
-    "Etchash": {
-                "rate" : "55 Mh",
-                "power_con" : "190 W"
-                },
-    "ProgPow": {
-                "rate" : "22 Mh",
-                "power_con" : "174 W"
-                },
-    "BeamHash3": {
-                "rate" : "",
-                "power_con" : ""
-                },
-    "Zhash": {
-                "rate" : "84 h",
-                "power_con" : "174 W"
-                }
+      "rate": "52 Mh",
+      "power_con": "174 W"
     },
-    {
-    "name": "GTX 1050", 
-    "Ethash": {
-                "rate" : "12 Mh",
-                "power_con" : "60 W"
-                },
     "MTP": {
-                "rate" : "",
-                "power_con" : ""
-                },
+      "rate": "3.5 Mh",
+      "power_con": "179 W"
+    },
     "Etchash": {
-                "rate" : "",
-                "power_con" : ""
-                },
+      "rate": "55 Mh",
+      "power_con": "190 W"
+    },
     "ProgPow": {
-                "rate" : "22 Mh",
-                "power_con" : "174 W"
-                },
+      "rate": "22 Mh",
+      "power_con": "174 W"
+    },
     "BeamHash3": {
-                "rate" : "",
-                "power_con" : ""
-                },
+      "rate": "",
+      "power_con": ""
+    },
     "Zhash": {
-                "rate" : "84 h",
-                "power_con" : "174 W"
-                }
+      "rate": "84 h",
+      "power_con": "174 W"
     }
-    ]
+  },
+  {
+    "name": "GTX 1050",
+    "Ethash": {
+      "rate": "12 Mh",
+      "power_con": "60 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "",
+      "power_con": ""
+    },
+    "ProgPow": {
+      "rate": "4.3 Mh",
+      "power_con": "60 W"
+    },
+    "BeamHash3": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Zhash": {
+      "rate": "19 h",
+      "power_con": "60 W"
+    }
+  },
+  {
+    "name": "GTX 1050TI",
+    "Ethash": {
+      "rate": "12 Mh",
+      "power_con": "70 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "14 Mh",
+      "power_con": "70 W"
+    },
+    "ProgPow": {
+      "rate": "5.2 Mh",
+      "power_con": "75 W"
+    },
+    "BeamHash3": {
+      "rate": "5 h",
+      "power_con": "80 W"
+    },
+    "Zhash": {
+      "rate": "20 h",
+      "power_con": "75 W"
+    }
+  },
+  {
+    "name": "GTX 1060",
+    "Ethash": {
+      "rate": "23 Mh",
+      "power_con": "90 W"
+    },
+    "MTP": {
+      "rate": "1.1 Mh",
+      "power_con": "90 W"
+    },
+    "Etchash": {
+      "rate": "22 Mh",
+      "power_con": "90 W"
+    },
+    "ProgPow": {
+      "rate": "7.3 Mh",
+      "power_con": "90 W"
+    },
+    "BeamHash3": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Zhash": {
+      "rate": "37 h",
+      "power_con": "90 W"
+    }
+  }
+]
