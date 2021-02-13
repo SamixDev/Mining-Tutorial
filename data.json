@@ -538,5 +538,113 @@
       "rate": "133 h",
       "power_con": "210 W"
     }
+  },
+  {
+    "name": "RTX 3060TI",
+    "Ethash": {
+      "rate": "61 Mh",
+      "power_con": "130 W"
+    },
+    "MTP": {
+      "rate": "4.2 Mh",
+      "power_con": "210 W"
+    },
+    "Etchash": {
+      "rate": "61 Mh",
+      "power_con": "130 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "29 h",
+      "power_con": "170 W"
+    },
+    "Zhash": {
+      "rate": "",
+      "power_con": ""
+    }
+  },
+  {
+    "name": "RTX 3070",
+    "Ethash": {
+      "rate": "63 Mh",
+      "power_con": "135 W"
+    },
+    "MTP": {
+      "rate": "4.4 Mh",
+      "power_con": "210 W"
+    },
+    "Etchash": {
+      "rate": "63 Mh",
+      "power_con": "135 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "31 h",
+      "power_con": "180 W"
+    },
+    "Zhash": {
+      "rate": "107 h",
+      "power_con": "210 W"
+    }
+  },
+  {
+    "name": "RTX 3080",
+    "Ethash": {
+      "rate": "100 Mh",
+      "power_con": "240 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "100 Mh",
+      "power_con": "240 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Zhash": {
+      "rate": "",
+      "power_con": ""
+    }
+  },
+  {
+    "name": "RTX 3090",
+    "Ethash": {
+      "rate": "120 Mh",
+      "power_con": "350 W"
+    },
+    "MTP": {
+      "rate": "7.2 Mh",
+      "power_con": "320 W"
+    },
+    "Etchash": {
+      "rate": "120 Mh",
+      "power_con": "350 W"
+    },
+    "ProgPow": {
+      "rate": "52 Mh",
+      "power_con": "370 W"
+    },
+    "BeamHash3": {
+      "rate": "56 h",
+      "power_con": "330 W"
+    },
+    "Zhash": {
+      "rate": "",
+      "power_con": ""
+    }
   }
 ]
