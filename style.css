@@ -1,0 +1,13 @@
+* {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    padding: 0;
+    margin: 0;
+}
+:root {
+    --blueMaya: #73c2fb;
+    --beige: #F4F4DC;
+    --grey: #777777;
+  }
