@@ -349,5 +349,113 @@
       "rate": "47 h",
       "power_con": "90 W"
     }
+  },
+  {
+    "name": "RTX 2060",
+    "Ethash": {
+      "rate": "28 Mh",
+      "power_con": "130 W"
+    },
+    "MTP": {
+      "rate": "2.1 Mh",
+      "power_con": "130 W"
+    },
+    "Etchash": {
+      "rate": "28 Mh",
+      "power_con": "130 W"
+    },
+    "ProgPow": {
+      "rate": "15 Mh",
+      "power_con": "130 W"
+    },
+    "BeamHash3": {
+      "rate": "18 h",
+      "power_con": "130 W"
+    },
+    "Zhash": {
+      "rate": "54 h",
+      "power_con": "130 W"
+    }
+  },
+  {
+    "name": "RTX 2060S",
+    "Ethash": {
+      "rate": "42 Mh",
+      "power_con": "150 W"
+    },
+    "MTP": {
+      "rate": "3.2 Mh",
+      "power_con": "150 W"
+    },
+    "Etchash": {
+      "rate": "42 Mh",
+      "power_con": "150 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Zhash": {
+      "rate": "74 h",
+      "power_con": "150 W"
+    }
+  },
+  {
+    "name": "RTX 2070",
+    "Ethash": {
+      "rate": "42 Mh",
+      "power_con": "150 W"
+    },
+    "MTP": {
+      "rate": "3.3 Mh",
+      "power_con": "150 W"
+    },
+    "Etchash": {
+      "rate": "42 Mh",
+      "power_con": "150 W"
+    },
+    "ProgPow": {
+      "rate": "19 Mh",
+      "power_con": "150 W"
+    },
+    "BeamHash3": {
+      "rate": "19 h",
+      "power_con": "150 W"
+    },
+    "Zhash": {
+      "rate": "76 h",
+      "power_con": "150 W"
+    }
+  },
+  {
+    "name": "RTX 2070S",
+    "Ethash": {
+      "rate": "44 Mh",
+      "power_con": "150 W"
+    },
+    "MTP": {
+      "rate": "4.1 Mh",
+      "power_con": "180 W"
+    },
+    "Etchash": {
+      "rate": "44 Mh",
+      "power_con": "150 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "26.7 h",
+      "power_con": "180 W"
+    },
+    "Zhash": {
+      "rate": "86 h",
+      "power_con": "180 W"
+    }
   }
 ]
