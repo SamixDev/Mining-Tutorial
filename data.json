@@ -106,5 +106,113 @@
       "rate": "37 h",
       "power_con": "90 W"
     }
+  },
+  {
+    "name": "GTX 1070",
+    "Ethash": {
+      "rate": "27 Mh",
+      "power_con": "120 W"
+    },
+    "MTP": {
+      "rate": "2.5 Mh",
+      "power_con": "130 W"
+    },
+    "Etchash": {
+      "rate": "32 Mh",
+      "power_con": "130 W"
+    },
+    "ProgPow": {
+      "rate": "12 Mh",
+      "power_con": "130 W"
+    },
+    "BeamHash3": {
+      "rate": "16.7 h",
+      "power_con": "130 W"
+    },
+    "Zhash": {
+      "rate": "62 h",
+      "power_con": "130 W"
+    }
+  },
+  {
+    "name": "GTX 1070TI",
+    "Ethash": {
+      "rate": "29 Mh",
+      "power_con": "130 W"
+    },
+    "MTP": {
+      "rate": "2.5 Mh",
+      "power_con": "130 W"
+    },
+    "Etchash": {
+      "rate": "32 Mh",
+      "power_con": "130 W"
+    },
+    "ProgPow": {
+      "rate": "13 Mh",
+      "power_con": "130 W"
+    },
+    "BeamHash3": {
+      "rate": "18 h",
+      "power_con": "130 W"
+    },
+    "Zhash": {
+      "rate": "68 h",
+      "power_con": "130 W"
+    }
+  },
+  {
+    "name": "GTX 1080",
+    "Ethash": {
+      "rate": "36 Mh",
+      "power_con": "150 W"
+    },
+    "MTP": {
+      "rate": "2.6 Mh",
+      "power_con": "150 W"
+    },
+    "Etchash": {
+      "rate": "40 Mh",
+      "power_con": "150 W"
+    },
+    "ProgPow": {
+      "rate": "15 Mh",
+      "power_con": "150 W"
+    },
+    "BeamHash3": {
+      "rate": "19 h",
+      "power_con": "150 W"
+    },
+    "Zhash": {
+      "rate": "70 h",
+      "power_con": "150 W"
+    }
+  },
+  {
+    "name": "GTX 1080TI",
+    "Ethash": {
+      "rate": "48 Mh",
+      "power_con": "200 W"
+    },
+    "MTP": {
+      "rate": "3.9 Mh",
+      "power_con": "190 W"
+    },
+    "Etchash": {
+      "rate": "55 Mh",
+      "power_con": "190 W"
+    },
+    "ProgPow": {
+      "rate": "18 Mh",
+      "power_con": "190 W"
+    },
+    "BeamHash3": {
+      "rate": "19 h",
+      "power_con": "200 W"
+    },
+    "Zhash": {
+      "rate": "96 h",
+      "power_con": "190 W"
+    }
   }
 ]
