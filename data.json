@@ -457,5 +457,86 @@
       "rate": "86 h",
       "power_con": "180 W"
     }
+  },
+  {
+    "name": "RTX 2080",
+    "Ethash": {
+      "rate": "44 Mh",
+      "power_con": "150 W"
+    },
+    "MTP": {
+      "rate": "3.9 Mh",
+      "power_con": "190 W"
+    },
+    "Etchash": {
+      "rate": "44 Mh",
+      "power_con": "150 W"
+    },
+    "ProgPow": {
+      "rate": "25 Mh",
+      "power_con": "190 W"
+    },
+    "BeamHash3": {
+      "rate": "26 h",
+      "power_con": "190 W"
+    },
+    "Zhash": {
+      "rate": "95 h",
+      "power_con": "190 W"
+    }
+  },
+  {
+    "name": "RTX 2080S",
+    "Ethash": {
+      "rate": "44 Mh",
+      "power_con": "150 W"
+    },
+    "MTP": {
+      "rate": "4.4 Mh",
+      "power_con": "210 W"
+    },
+    "Etchash": {
+      "rate": "44 Mh",
+      "power_con": "150 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Zhash": {
+      "rate": "80 h",
+      "power_con": "170 W"
+    }
+  },
+  {
+    "name": "RTX 2080TI",
+    "Ethash": {
+      "rate": "53 Mh",
+      "power_con": "220 W"
+    },
+    "MTP": {
+      "rate": "5.5 Mh",
+      "power_con": "210 W"
+    },
+    "Etchash": {
+      "rate": "53 Mh",
+      "power_con": "220 W"
+    },
+    "ProgPow": {
+      "rate": "31.2 Mh",
+      "power_con": "220 W"
+    },
+    "BeamHash3": {
+      "rate": "32 h",
+      "power_con": "220 W"
+    },
+    "Zhash": {
+      "rate": "133 h",
+      "power_con": "210 W"
+    }
   }
 ]
