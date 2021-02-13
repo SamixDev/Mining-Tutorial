@@ -646,5 +646,383 @@
       "rate": "",
       "power_con": ""
     }
+  },
+  {
+    "name": "RX470",
+    "Ethash": {
+      "rate": "30 Mh",
+      "power_con": "120 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "30 Mh",
+      "power_con": "120 W"
+    },
+    "ProgPow": {
+      "rate": "6.5 Mh",
+      "power_con": "130 W"
+    },
+    "BeamHash3": {
+      "rate": "13 h",
+      "power_con": "110 W"
+    },
+    "Zhash": {
+      "rate": "23 h",
+      "power_con": "110 W"
+    }
+  },
+  {
+    "name": "RX480",
+    "Ethash": {
+      "rate": "31 Mh",
+      "power_con": "140 W"
+    },
+    "MTP": {
+      "rate": "0.6 Mh",
+      "power_con": "140 W"
+    },
+    "Etchash": {
+      "rate": "31 Mh",
+      "power_con": "140 W"
+    },
+    "ProgPow": {
+      "rate": "7.9 Mh",
+      "power_con": "140 W"
+    },
+    "BeamHash3": {
+      "rate": "14 h",
+      "power_con": "130 W"
+    },
+    "Zhash": {
+      "rate": "26 h",
+      "power_con": "120 W"
+    }
+  },
+  {
+    "name": "RX570",
+    "Ethash": {
+      "rate": "30 Mh",
+      "power_con": "120 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "30 Mh",
+      "power_con": "120 W"
+    },
+    "ProgPow": {
+      "rate": "6.7 Mh",
+      "power_con": "130 W"
+    },
+    "BeamHash3": {
+      "rate": "13 h",
+      "power_con": "110 W"
+    },
+    "Zhash": {
+      "rate": "24 h",
+      "power_con": "100 W"
+    }
+  },
+  {
+    "name": "RX580",
+    "Ethash": {
+      "rate": "32 Mh",
+      "power_con": "140 W"
+    },
+    "MTP": {
+      "rate": "1.6 Mh",
+      "power_con": "120 W"
+    },
+    "Etchash": {
+      "rate": "32 Mh",
+      "power_con": "140 W"
+    },
+    "ProgPow": {
+      "rate": "7.9 Mh",
+      "power_con": "140 W"
+    },
+    "BeamHash3": {
+      "rate": "15 h",
+      "power_con": "130 W"
+    },
+    "Zhash": {
+      "rate": "27 h",
+      "power_con": "110 W"
+    }
+  },
+  {
+    "name": "RX590",
+    "Ethash": {
+      "rate": "32 Mh",
+      "power_con": "150 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "32 Mh",
+      "power_con": "150 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Zhash": {
+      "rate": "",
+      "power_con": ""
+    }
+  },
+  {
+    "name": "RX5500XT",
+    "Ethash": {
+      "rate": "26.3 Mh",
+      "power_con": "65 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "26 Mh",
+      "power_con": "65 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Zhash": {
+      "rate": "",
+      "power_con": ""
+    }
+  },
+  {
+    "name": "RX5600XT",
+    "Ethash": {
+      "rate": "42.5 Mh",
+      "power_con": "94 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "42 Mh",
+      "power_con": "94 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Zhash": {
+      "rate": "",
+      "power_con": ""
+    }
+  },
+  {
+    "name": "RX5700",
+    "Ethash": {
+      "rate": "58 Mh",
+      "power_con": "140 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "55 Mh",
+      "power_con": "140 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "23 h",
+      "power_con": "130 W"
+    },
+    "Zhash": {
+      "rate": "",
+      "power_con": ""
+    }
+  },
+  {
+    "name": "RX6800",
+    "Ethash": {
+      "rate": "64 Mh",
+      "power_con": "170 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "64 Mh",
+      "power_con": "170 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "35 h",
+      "power_con": "200 W"
+    },
+    "Zhash": {
+      "rate": "90 h",
+      "power_con": "200 W"
+    }
+  },
+  {
+    "name": "RX6800XT",
+    "Ethash": {
+      "rate": "65 Mh",
+      "power_con": "180 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "65 Mh",
+      "power_con": "180 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Zhash": {
+      "rate": "",
+      "power_con": ""
+    }
+  },
+  {
+    "name": "RX6900XT",
+    "Ethash": {
+      "rate": "65 Mh",
+      "power_con": "180 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "65 Mh",
+      "power_con": "180 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Zhash": {
+      "rate": "",
+      "power_con": ""
+    }
+  },
+  {
+    "name": "VEGA 56",
+    "Ethash": {
+      "rate": "49 Mh",
+      "power_con": "180 W"
+    },
+    "MTP": {
+      "rate": "2.5 Mh",
+      "power_con": "230 W"
+    },
+    "Etchash": {
+      "rate": "49 Mh",
+      "power_con": "180 W"
+    },
+    "ProgPow": {
+      "rate": "15.5 Mh",
+      "power_con": "250 W"
+    },
+    "BeamHash3": {
+      "rate": "23 h",
+      "power_con": "160 W"
+    },
+    "Zhash": {
+      "rate": "34 h",
+      "power_con": "230 W"
+    }
+  },
+  {
+    "name": "VEGA 64",
+    "Ethash": {
+      "rate": "50 Mh",
+      "power_con": "180 W"
+    },
+    "MTP": {
+      "rate": "2.8 Mh",
+      "power_con": "260 W"
+    },
+    "Etchash": {
+      "rate": "50 Mh",
+      "power_con": "180 W"
+    },
+    "ProgPow": {
+      "rate": "17 Mh",
+      "power_con": "270 W"
+    },
+    "BeamHash3": {
+      "rate": "28 h",
+      "power_con": "180 W"
+    },
+    "Zhash": {
+      "rate": "43 h",
+      "power_con": "250 W"
+    }
+  },
+  {
+    "name": "VEGA VII",
+    "Ethash": {
+      "rate": "100 Mh",
+      "power_con": "230 W"
+    },
+    "MTP": {
+      "rate": "4.2 Mh",
+      "power_con": "250 W"
+    },
+    "Etchash": {
+      "rate": "90 Mh",
+      "power_con": "230 W"
+    },
+    "ProgPow": {
+      "rate": "24.5 Mh",
+      "power_con": "270 W"
+    },
+    "BeamHash3": {
+      "rate": "43 h",
+      "power_con": "190 W"
+    },
+    "Zhash": {
+      "rate": "49 h",
+      "power_con": "180 W"
+    }
   }
 ]
