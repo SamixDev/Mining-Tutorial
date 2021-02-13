@@ -214,5 +214,140 @@
       "rate": "96 h",
       "power_con": "190 W"
     }
+  },
+  {
+    "name": "GTX 1650",
+    "Ethash": {
+      "rate": "15 Mh",
+      "power_con": "55 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "15 Mh",
+      "power_con": "55 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Zhash": {
+      "rate": "21 h",
+      "power_con": "69 W"
+    }
+  },
+    {
+    "name": "GTX 1650S",
+    "Ethash": {
+      "rate": "16.5 Mh",
+      "power_con": "65 W"
+    },
+    "MTP": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Etchash": {
+      "rate": "16.5 Mh",
+      "power_con": "65 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "",
+      "power_con": ""
+    },
+    "Zhash": {
+      "rate": "23 h",
+      "power_con": "65 W"
+    }
+  },
+  {
+    "name": "GTX 1660",
+    "Ethash": {
+      "rate": "24 Mh",
+      "power_con": "90 W"
+    },
+    "MTP": {
+      "rate": "2 Mh",
+      "power_con": "90 W"
+    },
+    "Etchash": {
+      "rate": "24 Mh",
+      "power_con": "90 W"
+    },
+    "ProgPow": {
+      "rate": "9.8 Mh",
+      "power_con": "90 W"
+    },
+    "BeamHash3": {
+      "rate": "12 h",
+      "power_con": "90 W"
+    },
+    "Zhash": {
+      "rate": "35 h",
+      "power_con": "90 W"
+    }
+  },
+  {
+    "name": "GTX 1660S",
+    "Ethash": {
+      "rate": "30 Mh",
+      "power_con": "90 W"
+    },
+    "MTP": {
+      "rate": "2.2 Mh",
+      "power_con": "90 W"
+    },
+    "Etchash": {
+      "rate": "30 Mh",
+      "power_con": "90 W"
+    },
+    "ProgPow": {
+      "rate": "",
+      "power_con": ""
+    },
+    "BeamHash3": {
+      "rate": "16 h",
+      "power_con": "90 W"
+    },
+    "Zhash": {
+      "rate": "39 h",
+      "power_con": "90 W"
+    }
+  },
+  {
+    "name": "GTX 1660TI",
+    "Ethash": {
+      "rate": "30 Mh",
+      "power_con": "90 W"
+    },
+    "MTP": {
+      "rate": "1.8 Mh",
+      "power_con": "90 W"
+    },
+    "Etchash": {
+      "rate": "30 Mh",
+      "power_con": "90 W"
+    },
+    "ProgPow": {
+      "rate": "9.6 Mh",
+      "power_con": "90 W"
+    },
+    "BeamHash3": {
+      "rate": "12.5 h",
+      "power_con": "90 W"
+    },
+    "Zhash": {
+      "rate": "47 h",
+      "power_con": "90 W"
+    }
   }
 ]
