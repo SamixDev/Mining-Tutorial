@@ -1,0 +1,56 @@
+[
+    {
+    "name": "GTX TITAN XP", 
+    "Ethash": {
+                "rate" : "52 Mh",
+                "power_con" : "174 W"
+                },
+    "MTP": {
+                "rate" : "3.5 Mh",
+                "power_con" : "179 W"
+                },
+    "Etchash": {
+                "rate" : "55 Mh",
+                "power_con" : "190 W"
+                },
+    "ProgPow": {
+                "rate" : "22 Mh",
+                "power_con" : "174 W"
+                },
+    "BeamHash3": {
+                "rate" : "",
+                "power_con" : ""
+                },
+    "Zhash": {
+                "rate" : "84 h",
+                "power_con" : "174 W"
+                }
+    },
+    {
+    "name": "GTX 1050", 
+    "Ethash": {
+                "rate" : "12 Mh",
+                "power_con" : "60 W"
+                },
+    "MTP": {
+                "rate" : "",
+                "power_con" : ""
+                },
+    "Etchash": {
+                "rate" : "",
+                "power_con" : ""
+                },
+    "ProgPow": {
+                "rate" : "22 Mh",
+                "power_con" : "174 W"
+                },
+    "BeamHash3": {
+                "rate" : "",
+                "power_con" : ""
+                },
+    "Zhash": {
+                "rate" : "84 h",
+                "power_con" : "174 W"
+                }
+    }
+    ]
