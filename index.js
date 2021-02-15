@@ -15,10 +15,10 @@ fetch("./data.json").then(res=>{
     let cell7 = row.insertCell(6);
     cell1.innerHTML = res2[i].name;
     cell2.innerHTML =res2[i].Ethash.rate+"<br>"+res2[i].Ethash.power_con;
-    cell3.innerHTML = res2[i].Ethash.rate+"<br>"+res2[i].Ethash.power_con;
-    cell4.innerHTML = res2[i].MTP.rate+"<br>"+res2[i].Ethash.power_con;
-    cell5.innerHTML = res2[i].ProgPow.rate+"<br>"+res2[i].Ethash.power_con;
-    cell6.innerHTML = res2[i].BeamHash3.rate+"<br>"+res2[i].Ethash.power_con;
-    cell7.innerHTML = res2[i].Zhash.rate+"<br>"+res2[i].Ethash.power_con;
+    cell3.innerHTML = res2[i].Etchash.rate+"<br>"+res2[i].Etchash.power_con;
+    cell4.innerHTML = res2[i].MTP.rate+"<br>"+res2[i].MTP.power_con;
+    cell5.innerHTML = res2[i].ProgPow.rate+"<br>"+res2[i].ProgPow.power_con;
+    cell6.innerHTML = res2[i].BeamHash3.rate+"<br>"+res2[i].BeamHash3.power_con;
+    cell7.innerHTML = res2[i].Zhash.rate+"<br>"+res2[i].Zhash.power_con;
 }
 })});
