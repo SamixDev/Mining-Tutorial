@@ -5,6 +5,7 @@
 :root {
   --light_grey: #d3d3d3;
   --golden: #9e8a29ff;
+  --fixpadding: 15px 15px;
 }
 
 body {
@@ -69,7 +70,7 @@ th {
   display: flex;
 }
 code {
-  padding: 15px 15px;
+  padding: var(--fixpadding);
 }
 @media only screen and (min-width: 1240px) {
   p,
@@ -89,7 +90,7 @@ code {
   }
   .flexit {
     display: block;
-    padding: 15px 15px;
+    padding: var(--fixpadding);
   }
   code {
     display: block;
