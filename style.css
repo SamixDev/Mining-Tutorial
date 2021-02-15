@@ -18,6 +18,12 @@ p{
     
 } 
 
+.foot{
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
 .headerimg {
   margin-left: auto;
   margin-right: auto;
